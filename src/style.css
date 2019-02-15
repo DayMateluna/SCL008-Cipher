@@ -1,7 +1,15 @@
-header{
-    width: 100%;
-    height: 100px;
-    background-image:url("http://subirimagen.me/uploads/20190201123344.jpeg");
+*{
+    margin: 0%;
+    padding:1%;
+
+}
+ 
+ 
+ 
+ .fondo {
+     background-image:url("http://subirimagen.me/uploads/20190201123344.jpeg");
+     height:80px ;
+
 }
 #message, #result{width: 500px;
     height: 200px;
